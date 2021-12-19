@@ -1,0 +1,19 @@
+{
+  "name": "z12/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://z12.dev/",
+  "keywords": ["z12", "russian"],
+  "support": {
+    "source": "https://github.com/z12/init-composer",
+    "issues": "https://github.com/z12/init-composer/issues",
+    "docs": "https://github.com/z12/init-composer/wiki",
+    "forum": "https://github.com/z12/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
